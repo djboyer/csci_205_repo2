@@ -1,2 +1,2 @@
-# csci_205_repo2
+# CSCI- 205 Second Repo - Working with GitHub desktop 
  second repo 
